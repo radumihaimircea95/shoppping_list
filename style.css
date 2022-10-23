@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h4 {
+  color: whitesmoke;
+}
+.container {
+  width: 600px !important ;
+  border: 1px solid lightblue;
+  margin-top: 40px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 40px;
+  background-color: darkslateblue;
+}
+
+input {
+  height: 40px;
+}
+
+ul li {
+  width: 400px;
+}
+
+/* *********************************** */
+.fa-sharp {
+  float: right;
+  border: none;
+  background: none;
+}
