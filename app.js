@@ -40,5 +40,3 @@ function createBtn(li) {
 for (var i = 0; i < lis.length; i++) {
   createBtn(lis[i]);
 }
-
-// mark as buyed
