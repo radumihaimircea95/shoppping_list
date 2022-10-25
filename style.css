@@ -2,12 +2,14 @@
   margin: 0;
   padding: 0;
 }
+
 h4 {
   color: whitesmoke;
 }
 .container {
   width: 600px !important ;
   border: 1px solid lightblue;
+  border-radius: 50px;
   margin-top: 40px;
   flex-direction: column;
   display: flex;
@@ -19,6 +21,8 @@ h4 {
 
 input {
   height: 40px;
+  text-align: center;
+  border-color: none;
 }
 
 ul li {
@@ -26,7 +30,7 @@ ul li {
 }
 
 /* *********************************** */
-.fa-sharp {
+.fa-solid {
   float: right;
   border: none;
   background: none;
